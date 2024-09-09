@@ -28,7 +28,7 @@ Exploring data analysis in the medical field, focusing on health trends.
 I love solving data problems and making complex information easy to understand through clear visualizations and well-structured reports. My approach is simple: clean the data, explore it, model it, and share insights.
 
 # 📫 Get in Touch!
-LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/mohamed-elsaadi/)
+LinkedIn: [Mohamed Elsaadi](https://www.linkedin.com/in/mohamed-elsaadi/)
 
 Email: mohamedelsaadi123@gmail.com
 
