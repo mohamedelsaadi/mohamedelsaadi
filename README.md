@@ -29,6 +29,7 @@ I love solving data problems and making complex information easy to understand t
 
 # 📫 Get in Touch!
 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/mohamed-elsaadi/)
+
 Email: mohamedelsaadi123@gmail.com
 
 
