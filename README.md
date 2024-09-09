@@ -1,6 +1,6 @@
-### Hi , I'm Mohamed Elsaadi 👋
+## Hi , I'm Mohamed Elsaadi 👋
 
- 🚀 Data Analyst | Python Enthusiast | Power BI Expert | SQL Specialist
+# 🚀 Data Analyst | Python Enthusiast | Power BI Expert | SQL Specialist
 I'm passionate about transforming data into actionable insights! With a background in data analysis and expertise in tools like Python, SQL, Power BI, and Excel, I enjoy diving deep into datasets to uncover trends and tell stories. Check out some of my projects below!
 
 # 🔧 Skills & Tools
